@@ -1,6 +1,7 @@
 {
   "name": "beshop",
   "private": true,
+  "homepage": "https://gayan3720.github.io/SpaApplication",
   "scripts": {
     "deploy": "npm run build && gh-pages -d build",
     "predeploy": "next build",
