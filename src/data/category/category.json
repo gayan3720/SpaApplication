@@ -1,0 +1,22 @@
+[
+  {
+    "categoryId": "Foot Care & Therapy",
+    "name": "Foot Care & Therapy",
+    "image": "/assets/img/top-categories-img1.jpg"
+  },
+  {
+    "categoryId": "Body Treatments & Massage",
+    "name": "Body Treatments & Massage",
+    "image": "/assets/img/top-categories-img2.jpg"
+  },
+  {
+    "categoryId": "Facial & Eye Treatments",
+    "name": "Facial & Eye Treatments",
+    "image": "/assets/img/top-categories-img3.jpg"
+  },
+  {
+    "categoryId": "Additional Enhancements",
+    "name": "Additional Enhancements",
+    "image": "/assets/img/top-categories-img4.jpg"
+  }
+]
