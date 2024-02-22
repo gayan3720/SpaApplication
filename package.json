@@ -3,7 +3,7 @@
   "private": true,
   "homepage": "https://gayan3720.github.io/SpaApplication",
   "scripts": {
-    "deploy": "npm run build && gh-pages -d build",
+    "deploy": "npm run build && gh-pages -d .next",
     "predeploy": "next build",
     "dev": "next",
     "start": "next start",
