@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "/SpaApplication",
     "paths": {
-      "@data/*": ["src/data"]
+      "@data/*": ["/SpaApplication/src/data"]
     }
   }
 }
